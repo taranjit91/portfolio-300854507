@@ -1,5 +1,5 @@
-# COMP308-W2017-Lesson3B
+# COMP308-W2017-Assignment 1
 
-## Welcome to Lesson 3 - Building Web Apps with Express
+## Create portfolio using express and node js
 
 please use **`npm install`** to install project dependencies
