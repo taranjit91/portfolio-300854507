@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2017-lesson3b",
+  "name": "portfolio-300854507",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -18,12 +18,12 @@
     "node": ">=6.0.0",
     "npm": ">=3.5.0"
   },
-  "description": "## Welcome to Lesson 3 - Building Web Apps with Express",
+  "description": "## portfolio-300854507",
   "main": "server.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2017-Lesson3B.git"
+    "url": "git+https://github.com/taranjit91/portfolio-300854507.git"
   },
   "keywords": [
     "NodeJS",
@@ -33,7 +33,7 @@
   "author": "Tom Tsiliopoulos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP308-W2017-Lesson3B/issues"
+    "url": "https://github.com/taranjit91/portfolio-300854507/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson3B#readme"
+  "homepage": "https://github.com/taranjit91/portfolio-300854507#readme"
 }
